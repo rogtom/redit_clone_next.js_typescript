@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reditcloneAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\Development\\amplify_next_tut\\amplify\\backend\\api\\reditcloneAPI\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authreditclonedcc8272d"
+    }
+  }
+}

@@ -10,6 +10,11 @@
       "StackName": "amplify-reditclone-dev-84920",
       "StackId": "arn:aws:cloudformation:eu-central-1:415776807504:stack/amplify-reditclone-dev-84920/b0410020-ba2c-11ec-a084-067682aeae5c",
       "AmplifyAppId": "d2nm19vdbmzm2s"
+    },
+    "categories": {
+      "auth": {
+        "reditclonedcc8272d": {}
+      }
     }
   }
 }
